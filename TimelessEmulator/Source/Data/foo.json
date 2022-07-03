@@ -1,0 +1,3602 @@
+[
+    {
+        "identifier": "elemental_and_physical_damage2284",
+        "name": "Physical and Lightning Damage"
+    },
+    {
+        "identifier": "elemental_and_physical_damage2285",
+        "name": "Physical and Fire Damage"
+    },
+    {
+        "identifier": "elemental_and_physical_damage2286",
+        "name": "Physical and Elemental Damage"
+    },
+    {
+        "identifier": "elemental_damage1905",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "elemental_damage1906",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "elemental_damage_and_ailment_effect_and_burning_damage2288",
+        "name": "Ailment Effect"
+    },
+    {
+        "identifier": "elemental_damage_and_elemental_penetration2287",
+        "name": "Freeze and Shock"
+    },
+    {
+        "identifier": "templar_elemental_notable2289",
+        "name": "Divine Judgement"
+    },
+    {
+        "identifier": "templar_fire_notable2290",
+        "name": "Divine Fury"
+    },
+    {
+        "identifier": "templar_lightning_notable2291",
+        "name": "Divine Wrath"
+    },
+    {
+        "identifier": "smashing_strikes53",
+        "name": "Smashing Strikes"
+    },
+    {
+        "identifier": "staff_block1422",
+        "name": "Staff Block"
+    },
+    {
+        "identifier": "staff_block23",
+        "name": "Staff Block"
+    },
+    {
+        "identifier": "staff_critical1823",
+        "name": "Staff Critical Strike Chance"
+    },
+    {
+        "identifier": "staff_damage254",
+        "name": "Staff Damage and Stun Duration"
+    },
+    {
+        "identifier": "staff_damage57",
+        "name": "Staff Damage and Stun Duration"
+    },
+    {
+        "identifier": "the_agnostic_keystone2695",
+        "name": "The Agnostic"
+    },
+    {
+        "identifier": "damage_and_minion_damage2227",
+        "name": "Minion Damage and Life"
+    },
+    {
+        "identifier": "damage_and_minion_damage2228",
+        "name": "Minion Damage and Life"
+    },
+    {
+        "identifier": "speed_and_minion_speed2230",
+        "name": "Minion Damage and Attack and Cast Speed"
+    },
+    {
+        "identifier": "speed_and_minion_speed2231",
+        "name": "Minion Damage and Attack and Cast Speed"
+    },
+    {
+        "identifier": "intelligence917",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "strength811",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength824",
+        "name": "Strength"
+    },
+    {
+        "identifier": "mana_arcane_surge2587",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana_arcane_surge2588_",
+        "name": "Mana and Arcane Surge Effect"
+    },
+    {
+        "identifier": "mana_arcane_surge2589",
+        "name": "Mana and Mana Regeneration"
+    },
+    {
+        "identifier": "mana_arcane_surge_notable2590",
+        "name": "Arcane Capacitor"
+    },
+    {
+        "identifier": "endurance_charge_duration153",
+        "name": "Endurance Charge Duration"
+    },
+    {
+        "identifier": "intelligence1992",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "maximum_endurance_charges132",
+        "name": "Endurance"
+    },
+    {
+        "identifier": "maximum_power_charges299",
+        "name": "Overcharge"
+    },
+    {
+        "identifier": "power_charge_duration1998",
+        "name": "Power Charge Duration"
+    },
+    {
+        "identifier": "strength1980",
+        "name": "Strength"
+    },
+    {
+        "identifier": "armour1948",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour94",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour95",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour_crit_reduction_notable1944",
+        "name": "Sanctum of Thought"
+    },
+    {
+        "identifier": "armour_and_energy_shield1178",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour_and_energy_shield1450",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "body_and_soul1173",
+        "name": "Faith and Steel"
+    },
+    {
+        "identifier": "fitness1186",
+        "name": "Devotion"
+    },
+    {
+        "identifier": "life1209",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1210",
+        "name": "Life"
+    },
+    {
+        "identifier": "sigil_damage2260",
+        "name": "Brand Damage"
+    },
+    {
+        "identifier": "sigil_damage_and_activation_range2261",
+        "name": "Brand Damage and Duration"
+    },
+    {
+        "identifier": "sigil_damage_and_activation_range2262",
+        "name": "Brand Damage and Duration"
+    },
+    {
+        "identifier": "sigil_frequency_and_duration2263",
+        "name": "Brand Range and Brand Recall Cooldown Recovery"
+    },
+    {
+        "identifier": "sigil_frequency_and_duration2263b",
+        "name": "Brand Range and Brand Recall Cooldown Recovery"
+    },
+    {
+        "identifier": "sigil_notable2264",
+        "name": "Runesmith"
+    },
+    {
+        "identifier": "intelligence1995",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "sigil_totem_keystone",
+        "name": "Runebinder"
+    },
+    {
+        "identifier": "strength1000",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength1001",
+        "name": "Strength"
+    },
+    {
+        "identifier": "intelligence888",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence894",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "area_damage_2224",
+        "name": "Area of Effect Damage"
+    },
+    {
+        "identifier": "reduced_mana_cost2225",
+        "name": "Mana and Reduced Mana Cost"
+    },
+    {
+        "identifier": "catalyse759",
+        "name": "Divine Fervour"
+    },
+    {
+        "identifier": "elementalist939",
+        "name": "Holy Dominion"
+    },
+    {
+        "identifier": "physical_and_elemental_damage_2221",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "physical_and_elemental_damage_2223",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "spell_elemental_damage_notable1877",
+        "name": "Light of Divinity"
+    },
+    {
+        "identifier": "fortify_2064",
+        "name": "Attack Damage while Fortified"
+    },
+    {
+        "identifier": "fortify_20661",
+        "name": "Fortification Gain"
+    },
+    {
+        "identifier": "strength1007",
+        "name": "Strength"
+    },
+    {
+        "identifier": "warcry_empowered2710",
+        "name": "Exerted Attack Damage"
+    },
+    {
+        "identifier": "warcry_empowered2711",
+        "name": "Warcry Cooldown Recovery and Exerted Attack Damage"
+    },
+    {
+        "identifier": "warcry_empowered2712",
+        "name": "Warcry Speed and Exerted Attack Damage"
+    },
+    {
+        "identifier": "warcry_empowered_notable2713",
+        "name": "Measured Fury"
+    },
+    {
+        "identifier": "golem's_blood1088",
+        "name": "Golem's Blood"
+    },
+    {
+        "identifier": "life1196",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1213",
+        "name": "Life"
+    },
+    {
+        "identifier": "strength1005",
+        "name": "Strength"
+    },
+    {
+        "identifier": "executioner648",
+        "name": "Destroyer"
+    },
+    {
+        "identifier": "two_hand_damage1861",
+        "name": "Two Handed Melee Damage"
+    },
+    {
+        "identifier": "two_hand_damage1862",
+        "name": "Two Handed Melee Accuracy"
+    },
+    {
+        "identifier": "two_handed_attack_speed649",
+        "name": "Two Handed Attack Speed"
+    },
+    {
+        "identifier": "two_handed_damage646",
+        "name": "Two Handed Melee Damage"
+    },
+    {
+        "identifier": "might819",
+        "name": "Master of the Arena"
+    },
+    {
+        "identifier": "strength1004",
+        "name": "Strength"
+    },
+    {
+        "identifier": "totem_attack_damage2676",
+        "name": "Totem Damage and Attack Speed"
+    },
+    {
+        "identifier": "totem_attack_damage2677",
+        "name": "Totem Damage and Attack Speed"
+    },
+    {
+        "identifier": "totem_attack_damage2678",
+        "name": "Totem Damage and Placement Speed"
+    },
+    {
+        "identifier": "totem_attack_notable2679",
+        "name": "Surveillance"
+    },
+    {
+        "identifier": "armour_and_evasion1453",
+        "name": "Armour and Evasion"
+    },
+    {
+        "identifier": "armour_and_evasion1454",
+        "name": "Armour and Evasion"
+    },
+    {
+        "identifier": "leather_and_steel1458",
+        "name": "Cloth and Chain"
+    },
+    {
+        "identifier": "armour_guards_2378",
+        "name": "Armour and Guard Skill Cooldown Recovery"
+    },
+    {
+        "identifier": "armour_guards_2379",
+        "name": "Armour and Guard Skill Cooldown Recovery"
+    },
+    {
+        "identifier": "armour_guards_notable_2380",
+        "name": "Adamant"
+    },
+    {
+        "identifier": "defences_with_shield1857",
+        "name": "Defences with Shield"
+    },
+    {
+        "identifier": "melee_physical_damage_with_shield1854",
+        "name": "Attack Damage with Shield"
+    },
+    {
+        "identifier": "melee_physical_damage_with_shield1855",
+        "name": "Attack Damage with Shield"
+    },
+    {
+        "identifier": "melee_physical_damage_with_shield1856",
+        "name": "Attack Damage with Shield"
+    },
+    {
+        "identifier": "melee_physical_damage_with_shield_notable1858",
+        "name": "Defiance"
+    },
+    {
+        "identifier": "life127",
+        "name": "Life"
+    },
+    {
+        "identifier": "life129",
+        "name": "Life"
+    },
+    {
+        "identifier": "life_armour_evasion_notable1853",
+        "name": "Bravery"
+    },
+    {
+        "identifier": "mana548",
+        "name": "Mana and Mana Regeneration"
+    },
+    {
+        "identifier": "mana550",
+        "name": "Mana and Mana Regeneration"
+    },
+    {
+        "identifier": "mana_flows549",
+        "name": "Mana Flows"
+    },
+    {
+        "identifier": "strength1983",
+        "name": "Strength"
+    },
+    {
+        "identifier": "dexterity838",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "endurance_charges2423",
+        "name": "Armour per Endurance Charge"
+    },
+    {
+        "identifier": "frenzy_charges2419",
+        "name": "Evasion per Frenzy Charge"
+    },
+    {
+        "identifier": "dexterity1990_",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "endurance_charge_duration2003",
+        "name": "Endurance Charge Duration"
+    },
+    {
+        "identifier": "frenzy_charge_duration2006",
+        "name": "Frenzy Charge Duration"
+    },
+    {
+        "identifier": "maximum_endurance_charges133",
+        "name": "Vigour"
+    },
+    {
+        "identifier": "maximum_frenzy_charges527",
+        "name": "Savagery"
+    },
+    {
+        "identifier": "strength1984",
+        "name": "Strength"
+    },
+    {
+        "identifier": "dervish1028",
+        "name": "Dervish"
+    },
+    {
+        "identifier": "dual_wield_damage1859",
+        "name": "Dual Wield Accuracy"
+    },
+    {
+        "identifier": "dual_wield_damage621",
+        "name": "Dual Wield Damage"
+    },
+    {
+        "identifier": "dual_wield_damage622",
+        "name": "Dual Wield Damage"
+    },
+    {
+        "identifier": "dual_wield_speed567",
+        "name": "Dual Wield Attack Speed"
+    },
+    {
+        "identifier": "poison_bleed_chance_2179",
+        "name": "Ailment Damage"
+    },
+    {
+        "identifier": "poison_bleed_duration_2180",
+        "name": "Damaging Ailment Duration"
+    },
+    {
+        "identifier": "poison_bleed_notable_2181",
+        "name": "Dirty Techniques"
+    },
+    {
+        "identifier": "mana_on_kill1475",
+        "name": "Mana and Aura Area of Effect"
+    },
+    {
+        "identifier": "mana_on_kill1476",
+        "name": "Mana and Aura Area of Effect"
+    },
+    {
+        "identifier": "mana_on_kill_notable1704",
+        "name": "Revelry"
+    },
+    {
+        "identifier": "damage_while_using_shield1912",
+        "name": "Block Chance and Attack Damage with Shield"
+    },
+    {
+        "identifier": "shield_block33",
+        "name": "Shield Block and Block Recovery"
+    },
+    {
+        "identifier": "shield_block35",
+        "name": "Shield Block and Block Recovery"
+    },
+    {
+        "identifier": "shield_mastery683",
+        "name": "Testudo"
+    },
+    {
+        "identifier": "dexterity987",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "agility833",
+        "name": "Art of the Gladiator"
+    },
+    {
+        "identifier": "fury_bolts1132",
+        "name": "Fury Bolts"
+    },
+    {
+        "identifier": "projectile_damage1130",
+        "name": "Accuracy"
+    },
+    {
+        "identifier": "projectile_damage1131",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage1271",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage1860",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "dexterity840",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "two_hand_crit2539",
+        "name": "Two Handed Melee Critical Strike Chance and Accuracy"
+    },
+    {
+        "identifier": "two_hand_crit2541",
+        "name": "Two Handed Melee Critical Strike Chance and Accuracy"
+    },
+    {
+        "identifier": "two_hand_crit_notable2542",
+        "name": "Titanic Impacts"
+    },
+    {
+        "identifier": "stances2756",
+        "name": "Melee Damage and Strike Range"
+    },
+    {
+        "identifier": "stances2757",
+        "name": "Melee Damage and Strike Range"
+    },
+    {
+        "identifier": "stances_notable2758_",
+        "name": "Assured Strike"
+    },
+    {
+        "identifier": "dexterity868",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "mace_damage77",
+        "name": "Mace Damage"
+    },
+    {
+        "identifier": "mace_damage78",
+        "name": "Mace Damage and Area of Effect"
+    },
+    {
+        "identifier": "mace_damage79",
+        "name": "Mace Damage and Area of Effect"
+    },
+    {
+        "identifier": "mace_damage_and_armour1568",
+        "name": "Mace Damage and Attack Speed"
+    },
+    {
+        "identifier": "mace_notable1794",
+        "name": "Ribcage Crusher"
+    },
+    {
+        "identifier": "bow_damage_area2517",
+        "name": "Physical Bow Damage"
+    },
+    {
+        "identifier": "shield_scaling_notable_2791",
+        "name": "Deflection"
+    },
+    {
+        "identifier": "area_of_effect_radius1060",
+        "name": "Area of Effect"
+    },
+    {
+        "identifier": "area_of_effect_radius1061",
+        "name": "Area of Effect"
+    },
+    {
+        "identifier": "life_regeneration1084",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "life_regeneration1085",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "life_regeneration1087",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "mana389",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana390",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana391",
+        "name": "Mana"
+    },
+    {
+        "identifier": "skill_duration1788",
+        "name": "Skill Duration"
+    },
+    {
+        "identifier": "skill_duration_notable1787",
+        "name": "Potency of Will"
+    },
+    {
+        "identifier": "melee_damage1282",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "melee_damage1283",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "melee_damage1284",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "energy_shield293",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield295",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield296",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield297",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield298",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield403",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "energy_shield_notable1698",
+        "name": "Foresight"
+    },
+    {
+        "identifier": "path_of_the_savant1538",
+        "name": "Path of the Savant"
+    },
+    {
+        "identifier": "cast_speed1546",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "cast_speed1547",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "cast_speed1548",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "attack_speed1279",
+        "name": "Attack Speed and Dexterity"
+    },
+    {
+        "identifier": "life1280",
+        "name": "Life and Strength"
+    },
+    {
+        "identifier": "mana_regeneration1276",
+        "name": "Mana Regeneration and Intelligence"
+    },
+    {
+        "identifier": "melee_damage1281",
+        "name": "Physical Damage and Strength"
+    },
+    {
+        "identifier": "projectile_damage1278",
+        "name": "Projectile Damage and Dexterity"
+    },
+    {
+        "identifier": "spell_damage1277",
+        "name": "Spell Damage and Intelligence"
+    },
+    {
+        "identifier": "block1301",
+        "name": "Block"
+    },
+    {
+        "identifier": "block1302",
+        "name": "Block"
+    },
+    {
+        "identifier": "cold_resistance1289",
+        "name": "Cold Resistance"
+    },
+    {
+        "identifier": "fire_resistance1288",
+        "name": "Fire Resistance"
+    },
+    {
+        "identifier": "lightning_resistance1290",
+        "name": "Lightning Resistance"
+    },
+    {
+        "identifier": "projectile_damage1294",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage1295",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage1296",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "reduced_duration2740",
+        "name": "Reduced Skill Duration"
+    },
+    {
+        "identifier": "reduced_duration_notable2742",
+        "name": "Window of Opportunity"
+    },
+    {
+        "identifier": "skill_duration1036",
+        "name": "Skill Duration"
+    },
+    {
+        "identifier": "skill_duration_notable1738",
+        "name": "Exceptional Performance"
+    },
+    {
+        "identifier": "movement_speed1017",
+        "name": "Movement Speed"
+    },
+    {
+        "identifier": "movement_speed1018",
+        "name": "Movement Speed"
+    },
+    {
+        "identifier": "movement_speed1155",
+        "name": "Movement Speed"
+    },
+    {
+        "identifier": "minion_mana2636",
+        "name": "Link Mana Cost"
+    },
+    {
+        "identifier": "minion_mana2637_",
+        "name": "Link Mana Cost and Cast Speed"
+    },
+    {
+        "identifier": "minion_mana_notable2638",
+        "name": "Inspiring Bond"
+    },
+    {
+        "identifier": "mana_on_kill1758",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana_on_kill1759",
+        "name": "Mana and Mana on Kill"
+    },
+    {
+        "identifier": "mana_on_kill_notable1760",
+        "name": "Thrill Killer"
+    },
+    {
+        "identifier": "resilience_keystone2851_",
+        "name": "Solipsism"
+    },
+    {
+        "identifier": "accuracy_rating2345",
+        "name": "Accuracy"
+    },
+    {
+        "identifier": "accuracy_rating2346",
+        "name": "Accuracy"
+    },
+    {
+        "identifier": "accuracy_rating2347",
+        "name": "Accuracy"
+    },
+    {
+        "identifier": "attack_speed1285",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "attack_speed1286",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "attack_speed1287",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "spell_damage1291",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "spell_damage1292",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "spell_damage1293",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "life_on_kill1755",
+        "name": "Life and Life on Kill"
+    },
+    {
+        "identifier": "life_on_kill1756",
+        "name": "Life and Life on Kill"
+    },
+    {
+        "identifier": "life_on_kill_notable1757",
+        "name": "Hired Killer"
+    },
+    {
+        "identifier": "harrier1542",
+        "name": "Harrier"
+    },
+    {
+        "identifier": "evasion1011",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "evasion1092",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "evasion536",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "evasion537",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "evasion538",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "path_of_the_hunter1539",
+        "name": "Path of the Hunter"
+    },
+    {
+        "identifier": "reflexes1091",
+        "name": "Reflexes"
+    },
+    {
+        "identifier": "reflexes706",
+        "name": "Evasion and Spell Suppression"
+    },
+    {
+        "identifier": "aura_effect1556",
+        "name": "Aura Effect"
+    },
+    {
+        "identifier": "leadership1201",
+        "name": "Leadership"
+    },
+    {
+        "identifier": "reduced_mana_reservation1552",
+        "name": "Reservation Efficiency"
+    },
+    {
+        "identifier": "mine_damage2149",
+        "name": "Mine Damage"
+    },
+    {
+        "identifier": "mine_damage_placement_notable2151",
+        "name": "Destructive Apparatus"
+    },
+    {
+        "identifier": "mine_damage_placement_speed2150",
+        "name": "Mine Duration"
+    },
+    {
+        "identifier": "mine_throwing_speed2651",
+        "name": "Mine Throwing Speed"
+    },
+    {
+        "identifier": "intelligence881",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence897",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "conduit1135",
+        "name": "Conduit"
+    },
+    {
+        "identifier": "critical_notable1770",
+        "name": "True Strike"
+    },
+    {
+        "identifier": "critical_strike_chance1298",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "critical_strike_chance1299",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "dexterity841",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity846",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "endurance_charge_duration2158",
+        "name": "Charge on Kill"
+    },
+    {
+        "identifier": "frenzy_charge_duration2156",
+        "name": "Charge on Kill"
+    },
+    {
+        "identifier": "additional_trap_and_mine_and_damage1536",
+        "name": "Saboteur"
+    },
+    {
+        "identifier": "critical_strike_chance1020",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "elemental_damage2137",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "elemental_damage_notable2138",
+        "name": "Elemental Focus"
+    },
+    {
+        "identifier": "trap_and_mine_damage1511",
+        "name": "Trap and Mine Damage"
+    },
+    {
+        "identifier": "degeneration_damage1570",
+        "name": "Damage Over Time"
+    },
+    {
+        "identifier": "one_handed_damage1052",
+        "name": "One Handed Damage"
+    },
+    {
+        "identifier": "physical_damage2100",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "physical_damage_notable2101",
+        "name": "Will of Blades"
+    },
+    {
+        "identifier": "repartee1051",
+        "name": "Sleight of Hand"
+    },
+    {
+        "identifier": "intelligence953",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence962",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity857",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity980",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "life_mana_es_resists_notable2294",
+        "name": "Resourcefulness"
+    },
+    {
+        "identifier": "spell_power1227",
+        "name": "Coldhearted Calculation"
+    },
+    {
+        "identifier": "acceleration1238",
+        "name": "Fangs of the Viper"
+    },
+    {
+        "identifier": "trap_speed_trigger_radius2146",
+        "name": "Trap Throwing Speed and Trigger Area"
+    },
+    {
+        "identifier": "trap_speed_trigger_radius2147",
+        "name": "Trap Throwing Speed and Trigger Area"
+    },
+    {
+        "identifier": "life_evasion_energy_shield2292",
+        "name": "Life and Energy Shield on Kill"
+    },
+    {
+        "identifier": "life_evasion_energy_shield2293",
+        "name": "Life and Energy Shield on Kill"
+    },
+    {
+        "identifier": "physical_damage1749",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "physical_damage1752",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "physical_damage_notable1754",
+        "name": "Master of Blades"
+    },
+    {
+        "identifier": "dexterity991",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "energy_shield_evasion_leech_notable2295",
+        "name": "Soul Thief"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1252",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1427",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "damage_area_projectile_speed_2296",
+        "name": "Life and Mana on Hit"
+    },
+    {
+        "identifier": "damage_area_projectile_speed_2297",
+        "name": "Life and Mana on Hit"
+    },
+    {
+        "identifier": "projectile_damage_projectile_speed1628",
+        "name": "Clever Thief"
+    },
+    {
+        "identifier": "mana1647",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana1648",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mind_drinker302",
+        "name": "Mind Drinker"
+    },
+    {
+        "identifier": "dexterity1991",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "frenzy_charge_duration531",
+        "name": "Frenzy Charge Duration"
+    },
+    {
+        "identifier": "intelligence1993",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "maximum_frenzy_charges526",
+        "name": "Frenetic"
+    },
+    {
+        "identifier": "maximum_power_charges743",
+        "name": "Infused"
+    },
+    {
+        "identifier": "power_charge_duration2000",
+        "name": "Power Charge Duration"
+    },
+    {
+        "identifier": "life1413",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1415",
+        "name": "Life"
+    },
+    {
+        "identifier": "life_life_leech1629",
+        "name": "Blood Drinker"
+    },
+    {
+        "identifier": "dagger_damage2060",
+        "name": "Dagger Damage and Movement Speed"
+    },
+    {
+        "identifier": "dagger_mobility2533",
+        "name": "Dagger Damage and Movement Speed"
+    },
+    {
+        "identifier": "from_the_shadows471",
+        "name": "From the Shadows"
+    },
+    {
+        "identifier": "ghost_dance_keystone2852_",
+        "name": "Ghost Dance"
+    },
+    {
+        "identifier": "chaos_damage_notable1583",
+        "name": "One with Evil"
+    },
+    {
+        "identifier": "chaos_resist1580",
+        "name": "Chaos Resistance"
+    },
+    {
+        "identifier": "chaos_resist1581",
+        "name": "Chaos Resistance"
+    },
+    {
+        "identifier": "accuracy586",
+        "name": "Accuracy and Critical Strike Chance"
+    },
+    {
+        "identifier": "accuracy587",
+        "name": "Accuracy and Critical Strike Chance"
+    },
+    {
+        "identifier": "deadeye588",
+        "name": "Depth Perception"
+    },
+    {
+        "identifier": "intelligence926",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence927",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity867",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dagger_damage264",
+        "name": "Dagger Damage"
+    },
+    {
+        "identifier": "dagger_damage_and_attack_speed466",
+        "name": "Dagger Damage and Attack Speed"
+    },
+    {
+        "identifier": "dagger_damage_and_attack_speed467",
+        "name": "Dagger Damage and Attack Speed"
+    },
+    {
+        "identifier": "dagger_damage_and_attack_speed468",
+        "name": "Dagger Damage and Attack Speed"
+    },
+    {
+        "identifier": "dagger_damage_and_critical_strike_chance465",
+        "name": "Dagger Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "dagger_damage_and_critical_strike_multiplier262",
+        "name": "Dagger Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "dagger_damage_and_critical_strike_multiplier263",
+        "name": "Dagger Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "dagger_global_crit_notable2527",
+        "name": "Backstabbing"
+    },
+    {
+        "identifier": "flaying266",
+        "name": "Flaying"
+    },
+    {
+        "identifier": "claw_attack_speed1812",
+        "name": "Claw Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "claw_critical2032",
+        "name": "Claw Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "claw_critical2034",
+        "name": "Claw Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "claw_damage1809",
+        "name": "Claw Damage and Attack Speed"
+    },
+    {
+        "identifier": "claw_damage1810",
+        "name": "Claw Damage and Attack Speed"
+    },
+    {
+        "identifier": "claw_damage274",
+        "name": "Claw Damage"
+    },
+    {
+        "identifier": "claw_damage491",
+        "name": "Claw Damage and Attack Speed"
+    },
+    {
+        "identifier": "claw_damage_leech_notable2520",
+        "name": "Claws of the Hawk"
+    },
+    {
+        "identifier": "eagle_talons273",
+        "name": "Claws of the Magpie"
+    },
+    {
+        "identifier": "trap_and_mine_damage1531",
+        "name": "Trap Damage"
+    },
+    {
+        "identifier": "trap_and_mine_damage1533",
+        "name": "Trap Damage"
+    },
+    {
+        "identifier": "trap_and_mine_laying_speed1528",
+        "name": "Trap Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "sword_damage1070",
+        "name": "Sword Damage"
+    },
+    {
+        "identifier": "sword_damage463",
+        "name": "Sword Damage"
+    },
+    {
+        "identifier": "sword_damage48",
+        "name": "Sword Damage"
+    },
+    {
+        "identifier": "sword_damage_and_attack_speed450",
+        "name": "Sword Damage and Attack Speed"
+    },
+    {
+        "identifier": "axe_damage1079",
+        "name": "Axe Damage"
+    },
+    {
+        "identifier": "axe_damage109",
+        "name": "Axe Damage"
+    },
+    {
+        "identifier": "axe_damage110",
+        "name": "Axe Damage"
+    },
+    {
+        "identifier": "axe_damage521",
+        "name": "Axe Damage and Attack Speed"
+    },
+    {
+        "identifier": "axe_damage_and_accuracy106",
+        "name": "Axe Damage"
+    },
+    {
+        "identifier": "axe_damage_and_attack_speed97",
+        "name": "Axe Damage and Attack Speed"
+    },
+    {
+        "identifier": "axe_damage_and_attack_speed98",
+        "name": "Axe Damage and Attack Speed"
+    },
+    {
+        "identifier": "cleaving611",
+        "name": "Cleaving"
+    },
+    {
+        "identifier": "timberwolf105",
+        "name": "Slaughter"
+    },
+    {
+        "identifier": "mace_damage1037",
+        "name": "Mace Damage and Stun Duration"
+    },
+    {
+        "identifier": "mace_damage1038",
+        "name": "Mace Damage"
+    },
+    {
+        "identifier": "mace_damage80",
+        "name": "Mace Damage and Stun Duration"
+    },
+    {
+        "identifier": "mace_damage_and_attack_speed66",
+        "name": "Mace Damage and Area of Effect"
+    },
+    {
+        "identifier": "strength806",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength787",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength781",
+        "name": "Strength"
+    },
+    {
+        "identifier": "shield_damage_block2550",
+        "name": "Shield Damage and Defences"
+    },
+    {
+        "identifier": "shield_damage_block2551",
+        "name": "Shield Damage and Block"
+    },
+    {
+        "identifier": "shield_damage_block2552",
+        "name": "Shield Damage"
+    },
+    {
+        "identifier": "shield_damage_block_notable2553_",
+        "name": "Aggressive Bastion"
+    },
+    {
+        "identifier": "axe_damage111",
+        "name": "Bleed Chance"
+    },
+    {
+        "identifier": "axe_damage_accuracy1927",
+        "name": "Faster Bleeding"
+    },
+    {
+        "identifier": "physical_damage_over_time1952",
+        "name": "Bleed Chance"
+    },
+    {
+        "identifier": "splitting_strikes1080",
+        "name": "Savage Wounds"
+    },
+    {
+        "identifier": "impale_twohand2764",
+        "name": "Impale Effect with Two Handed Weapons"
+    },
+    {
+        "identifier": "impale_twohand2765",
+        "name": "Impale Chance with Two Handed Weapons"
+    },
+    {
+        "identifier": "impale_twohand_notable2766",
+        "name": "Harpooner"
+    },
+    {
+        "identifier": "deadly_precision751",
+        "name": "Disemboweling"
+    },
+    {
+        "identifier": "one_handed_critical_strike_chance752",
+        "name": "Melee Critical Strike Chance"
+    },
+    {
+        "identifier": "call_of_steel_notable2818",
+        "name": "Hearty"
+    },
+    {
+        "identifier": "totem_ranged_defence2672",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "totem_ranged_defence2674",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "life_resistances1898",
+        "name": "Life and Elemental Resistances"
+    },
+    {
+        "identifier": "life_resistances1899",
+        "name": "Life and Elemental Resistances"
+    },
+    {
+        "identifier": "life_resistances_notable1900",
+        "name": "Barbarism"
+    },
+    {
+        "identifier": "endurance_charge_duration2002",
+        "name": "Endurance Charge Duration"
+    },
+    {
+        "identifier": "life_regeneration_per_endurance_charge141",
+        "name": "Life Regeneration per Endurance Charge"
+    },
+    {
+        "identifier": "maximum_endurance_charges131",
+        "name": "Stamina"
+    },
+    {
+        "identifier": "strength1981",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength1982",
+        "name": "Strength"
+    },
+    {
+        "identifier": "life_and_armour1901",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "life_and_armour1902",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "life_armour_flask_life_notable1903",
+        "name": "Juggernaut"
+    },
+    {
+        "identifier": "bleed_chance2189",
+        "name": "Damage with Life Cost Skills and Reduced Life Cost"
+    },
+    {
+        "identifier": "bleed_chance_notable2190",
+        "name": "Cannibalistic Rite"
+    },
+    {
+        "identifier": "physical_damage_over_time2188",
+        "name": "Damage with Life Cost Skills and Reduced Life Cost"
+    },
+    {
+        "identifier": "strength782",
+        "name": "Strength"
+    },
+    {
+        "identifier": "blood_drinker143",
+        "name": "Lust for Carnage"
+    },
+    {
+        "identifier": "life_gain_on_hit146",
+        "name": "Life Leech Speed and Attack Speed"
+    },
+    {
+        "identifier": "life_leech142",
+        "name": "Life Leech and Attack Speed"
+    },
+    {
+        "identifier": "strength798",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength822",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength785",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength792",
+        "name": "Strength"
+    },
+    {
+        "identifier": "attack_speed1889",
+        "name": "Melee Attack Speed"
+    },
+    {
+        "identifier": "one_handed_damage715",
+        "name": "One Handed Melee Damage"
+    },
+    {
+        "identifier": "one_handed_notable1596",
+        "name": "Strong Arm"
+    },
+    {
+        "identifier": "staff_accu_notable2569",
+        "name": "Warrior Training"
+    },
+    {
+        "identifier": "two_handed_weapon_damage12",
+        "name": "Two Handed Melee Damage"
+    },
+    {
+        "identifier": "armour90",
+        "name": "Armour"
+    },
+    {
+        "identifier": "armour_mastery89",
+        "name": "Spiked Bulwark"
+    },
+    {
+        "identifier": "block_notable1881",
+        "name": "Robust"
+    },
+    {
+        "identifier": "dual_wield_block1053",
+        "name": "Elemental Resistances"
+    },
+    {
+        "identifier": "shield_block1109",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "shield_mastery730",
+        "name": "Diamond Skin"
+    },
+    {
+        "identifier": "life1164",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1406",
+        "name": "Life"
+    },
+    {
+        "identifier": "life180",
+        "name": "Life"
+    },
+    {
+        "identifier": "life181",
+        "name": "Life"
+    },
+    {
+        "identifier": "life184",
+        "name": "Life"
+    },
+    {
+        "identifier": "life193",
+        "name": "Life"
+    },
+    {
+        "identifier": "life_notable1697",
+        "name": "Constitution"
+    },
+    {
+        "identifier": "path_of_the_warrior1537",
+        "name": "Path of the Warrior"
+    },
+    {
+        "identifier": "attack_speed1564",
+        "name": "Attack Speed and Rage "
+    },
+    {
+        "identifier": "attack_speed1565",
+        "name": "Attack Speed and Rage "
+    },
+    {
+        "identifier": "curse_alternate2804",
+        "name": "Curse Effect"
+    },
+    {
+        "identifier": "curse_alternate2805",
+        "name": "Damage against Cursed Enemies"
+    },
+    {
+        "identifier": "curse_alternate2806",
+        "name": "Reservation Efficiency of Curse Skills"
+    },
+    {
+        "identifier": "curse_alternate_notable2807",
+        "name": "Malicious Intent"
+    },
+    {
+        "identifier": "iron_grip1181",
+        "name": "Iron Grip"
+    },
+    {
+        "identifier": "area_of_effect_radius1062",
+        "name": "Area of Effect"
+    },
+    {
+        "identifier": "mana767",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana768",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana_on_damage_notable1737",
+        "name": "Battle Rouse"
+    },
+    {
+        "identifier": "totem_attack_and_cast_speed1504",
+        "name": "Totem Placement Speed and Duration"
+    },
+    {
+        "identifier": "totem_life_and_duration1503",
+        "name": "Totem Attack and Cast Speed"
+    },
+    {
+        "identifier": "totem_placement_speed_notable1509",
+        "name": "Totemic Zeal"
+    },
+    {
+        "identifier": "strength773",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength789",
+        "name": "Strength"
+    },
+    {
+        "identifier": "block1300",
+        "name": "Block"
+    },
+    {
+        "identifier": "sentinel1541",
+        "name": "Sentinel"
+    },
+    {
+        "identifier": "reduced_duration2741",
+        "name": "Reduced Skill Duration"
+    },
+    {
+        "identifier": "skill_duration437",
+        "name": "Skill Duration"
+    },
+    {
+        "identifier": "dexterity847",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity849",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "mana_flasks1740",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana_flasks1741",
+        "name": "Mana and Flasks"
+    },
+    {
+        "identifier": "mana_flasks_notable1743",
+        "name": "Arcane Chemistry"
+    },
+    {
+        "identifier": "deaden_keystone2849",
+        "name": "Magebane"
+    },
+    {
+        "identifier": "life_flasks1744",
+        "name": "Life and Flasks"
+    },
+    {
+        "identifier": "life_flasks_1745",
+        "name": "Life and Flasks"
+    },
+    {
+        "identifier": "bow_attack_speed671",
+        "name": "Bow Attack Speed and Accuracy"
+    },
+    {
+        "identifier": "bow_damage507",
+        "name": "Bow Damage and Critical Strike Chance"
+    },
+    {
+        "identifier": "attack_move_speed_notable1792",
+        "name": "Quickstep"
+    },
+    {
+        "identifier": "dual_wield_damage726",
+        "name": "Movement Speed and Spell Suppression"
+    },
+    {
+        "identifier": "one_handed_damage637",
+        "name": "Weapon Elemental Damage"
+    },
+    {
+        "identifier": "wind_dancer_keystone2694",
+        "name": "Wind Dancer"
+    },
+    {
+        "identifier": "one_handed_attack_speed1027",
+        "name": "Attack Damage"
+    },
+    {
+        "identifier": "one_handed_damage1050",
+        "name": "Attack Damage"
+    },
+    {
+        "identifier": "weapon_artistry620",
+        "name": "Weapon Artistry"
+    },
+    {
+        "identifier": "dexterity870",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity985",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity872",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity976",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity989",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "attack_damage_notable2120",
+        "name": "Aspect of the Lynx"
+    },
+    {
+        "identifier": "claws_of_the_pride489",
+        "name": "Intuition"
+    },
+    {
+        "identifier": "evasion_blind2365",
+        "name": "Evasion"
+    },
+    {
+        "identifier": "evasion_blind2366",
+        "name": "Evasion and Blind Effect"
+    },
+    {
+        "identifier": "evasion_blind23662",
+        "name": "Evasion and Blind Effect"
+    },
+    {
+        "identifier": "evasion_blind2367",
+        "name": "Blind Duration"
+    },
+    {
+        "identifier": "evasion_blind_notable2368",
+        "name": "Silent Steps"
+    },
+    {
+        "identifier": "weapon_elemental_damage1263",
+        "name": "Weapon Elemental Damage"
+    },
+    {
+        "identifier": "weapon_elemental_damage1264",
+        "name": "Weapon Elemental Damage"
+    },
+    {
+        "identifier": "dexterity969",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "cold_damage2025",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "cold_damage2026",
+        "name": "Cold Damage and Cold Ailment Effect"
+    },
+    {
+        "identifier": "cold_damage_notable2027",
+        "name": "Flash Freeze"
+    },
+    {
+        "identifier": "physical_to_cold_notable2160",
+        "name": "Winter Spirit"
+    },
+    {
+        "identifier": "weapon_cold_damage2159",
+        "name": "Physical Damage as Extra Cold Damage"
+    },
+    {
+        "identifier": "dexterity1986",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity1987",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "evasion_per_frenzy_charge535",
+        "name": "Evasion Per Frenzy Charge"
+    },
+    {
+        "identifier": "frenzy_charge_duration2004",
+        "name": "Frenzy Charge Duration"
+    },
+    {
+        "identifier": "maximum_frenzy_charges525",
+        "name": "Fervour"
+    },
+    {
+        "identifier": "evasion1090",
+        "name": "Evasion and Elemental Resistances"
+    },
+    {
+        "identifier": "evasion1692",
+        "name": "Evasion and Elemental Resistances"
+    },
+    {
+        "identifier": "evasion_resists_notable1691",
+        "name": "Survivalist"
+    },
+    {
+        "identifier": "alchemist532",
+        "name": "Herbalism"
+    },
+    {
+        "identifier": "life1216",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1412",
+        "name": "Life"
+    },
+    {
+        "identifier": "attack_poison2349",
+        "name": "Poison Chance"
+    },
+    {
+        "identifier": "attack_poison2350",
+        "name": "Poison Damage and Chance"
+    },
+    {
+        "identifier": "attack_poison2351",
+        "name": "Attack Speed and Poison Duration"
+    },
+    {
+        "identifier": "attack_poison23512",
+        "name": "Attack Speed and Poison Duration"
+    },
+    {
+        "identifier": "attack_poison_notable2352",
+        "name": "Swift Venoms"
+    },
+    {
+        "identifier": "attack_channel_charge2393",
+        "name": "Spell Suppression"
+    },
+    {
+        "identifier": "attack_channel_charge2394",
+        "name": "Spell Suppression"
+    },
+    {
+        "identifier": "attack_channel_charge2395",
+        "name": "Spell Suppression"
+    },
+    {
+        "identifier": "attack_channel_charge_notable2396",
+        "name": "Inveterate"
+    },
+    {
+        "identifier": "critical_strike_chance624",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "critical_strike_chance625",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "heartseeker626",
+        "name": "Heartseeker"
+    },
+    {
+        "identifier": "accuracy582",
+        "name": "Accuracy and Attack Speed"
+    },
+    {
+        "identifier": "accuracy589",
+        "name": "Accuracy and Attack Speed"
+    },
+    {
+        "identifier": "deadeye590",
+        "name": "Acuity"
+    },
+    {
+        "identifier": "flask_generic_notable2844_",
+        "name": "Careful Conservationist"
+    },
+    {
+        "identifier": "flask_mana324",
+        "name": "Flask Charges Gained"
+    },
+    {
+        "identifier": "dexterity866",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity864",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity862",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "acrobatics1136",
+        "name": "Acrobatics"
+    },
+    {
+        "identifier": "bow_damage505",
+        "name": "Bow Damage and Attack Speed"
+    },
+    {
+        "identifier": "bow_damage506",
+        "name": "Bow Damage and Accuracy"
+    },
+    {
+        "identifier": "bow_damage_and_speed496",
+        "name": "Bow Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "bow_damage_and_speed499",
+        "name": "Bow Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "bow_damage_and_speed500",
+        "name": "Bow Damage and Attack Speed"
+    },
+    {
+        "identifier": "bow_damage_and_speed501",
+        "name": "Bow Damage and Attack Speed"
+    },
+    {
+        "identifier": "bow_damage_and_speed502",
+        "name": "Bow Critical Strike Chance and Multiplier"
+    },
+    {
+        "identifier": "deadly_draw680",
+        "name": "Master Fletcher"
+    },
+    {
+        "identifier": "king_of_the_hill529",
+        "name": "King of the Hill"
+    },
+    {
+        "identifier": "sword_attack_speed1114",
+        "name": "Sword Damage and Block"
+    },
+    {
+        "identifier": "sword_damage_and_attack_speed447",
+        "name": "Sword Damage and Block"
+    },
+    {
+        "identifier": "chain_notable_2785",
+        "name": "Trick Shot"
+    },
+    {
+        "identifier": "projectile_damage1233",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage1681",
+        "name": "Chance for Extra Fork Projectile"
+    },
+    {
+        "identifier": "projectile_damage_pierce2186",
+        "name": "Chain Distance"
+    },
+    {
+        "identifier": "projectiles_fork_2788",
+        "name": "Forking Angle"
+    },
+    {
+        "identifier": "blight_special_notable5",
+        "name": "Vengeant Cascade"
+    },
+    {
+        "identifier": "deep_wisdom900",
+        "name": "Deep Wisdom"
+    },
+    {
+        "identifier": "minion_damage2251",
+        "name": "Minion Damage and Life"
+    },
+    {
+        "identifier": "minion_damage2252",
+        "name": "Minion Damage and Life"
+    },
+    {
+        "identifier": "minion_speed2253",
+        "name": "Minion Attack and Cast Speed"
+    },
+    {
+        "identifier": "intelligence907",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence908",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence905",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity836",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "additional_minions277",
+        "name": "Grave Intentions"
+    },
+    {
+        "identifier": "minion_life1151",
+        "name": "Minion Resistances"
+    },
+    {
+        "identifier": "minion_life281",
+        "name": "Minion Resistances"
+    },
+    {
+        "identifier": "intelligence941",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence946",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "cast_speed416",
+        "name": "Cast Speed and Spell Critical Strike Chance"
+    },
+    {
+        "identifier": "cast_speed417",
+        "name": "Cast Speed and Spell Critical Strike Chance"
+    },
+    {
+        "identifier": "nimbleness412",
+        "name": "Nimbleness"
+    },
+    {
+        "identifier": "intelligence887",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "gemini429",
+        "name": "Vampirism"
+    },
+    {
+        "identifier": "shield_damage2561",
+        "name": "Life on Kill and Recoup"
+    },
+    {
+        "identifier": "shield_defences_2792",
+        "name": "Life on Kill and Recoup"
+    },
+    {
+        "identifier": "life_es1766",
+        "name": "Life and Energy Shield"
+    },
+    {
+        "identifier": "life_es1767",
+        "name": "Life and Energy Shield"
+    },
+    {
+        "identifier": "life_es1768",
+        "name": "Life and Energy Shield"
+    },
+    {
+        "identifier": "life_es_notable1769",
+        "name": "Melding"
+    },
+    {
+        "identifier": "pain_attunement1178",
+        "name": "Pain Attunement"
+    },
+    {
+        "identifier": "intelligence958",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "corpses_damage2744",
+        "name": "Damage if Consumed a Corpse"
+    },
+    {
+        "identifier": "corpses_life2745",
+        "name": "Corpse Life"
+    },
+    {
+        "identifier": "corpses_life2746",
+        "name": "Corpse Life"
+    },
+    {
+        "identifier": "corpses_notable2748",
+        "name": "Undertaker"
+    },
+    {
+        "identifier": "corpses_speed2747_",
+        "name": "Damage if Consumed a Corpse"
+    },
+    {
+        "identifier": "strength702",
+        "name": "Strength"
+    },
+    {
+        "identifier": "channelling_damage2276",
+        "name": "Avoidance"
+    },
+    {
+        "identifier": "channelling_damage2277",
+        "name": "Stun Avoidance"
+    },
+    {
+        "identifier": "channelling_damage2278",
+        "name": "Bleed Avoidance"
+    },
+    {
+        "identifier": "channelling_damage_and_speed2279",
+        "name": "Poison Avoidance"
+    },
+    {
+        "identifier": "channelling_notabel2283",
+        "name": "Tolerance"
+    },
+    {
+        "identifier": "damage_and_energy_shield_2205",
+        "name": "Damage and Energy Shield"
+    },
+    {
+        "identifier": "elemental_damage1228",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "trap_mine_damage_2201",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "trap_mine_damage_2202",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "trap_mine_damage_2203",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "intelligence956",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence961",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "cast_speed414",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "cast_speed_notable1728",
+        "name": "Mental Rapidity"
+    },
+    {
+        "identifier": "power_charges2603",
+        "name": "Mana Regeneration per Power Charge"
+    },
+    {
+        "identifier": "divine_toughness1167",
+        "name": "Cruel Preparation"
+    },
+    {
+        "identifier": "life1219",
+        "name": "Life"
+    },
+    {
+        "identifier": "life1409",
+        "name": "Life"
+    },
+    {
+        "identifier": "intelligence934",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "cold_damage356",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "elemental_damage1643",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "fire_damage327",
+        "name": "Fire Damage"
+    },
+    {
+        "identifier": "frost_walker351",
+        "name": "Frost Walker"
+    },
+    {
+        "identifier": "lightning_damage314",
+        "name": "Lightning Damage"
+    },
+    {
+        "identifier": "intelligence902",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "deep_thoughts383",
+        "name": "Deep Thoughts"
+    },
+    {
+        "identifier": "mana386",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana399",
+        "name": "Mana"
+    },
+    {
+        "identifier": "fire_damage1102",
+        "name": "Ignite Chance and Duration"
+    },
+    {
+        "identifier": "fire_damage1103",
+        "name": "Fire Damage"
+    },
+    {
+        "identifier": "fire_damage1105",
+        "name": "Fire Damage"
+    },
+    {
+        "identifier": "fire_damage331",
+        "name": "Burning Damage Multiplier"
+    },
+    {
+        "identifier": "ignite_chance1651",
+        "name": "Burning Damage Multiplier"
+    },
+    {
+        "identifier": "ignite_duration1796",
+        "name": "Ignite Chance and Duration"
+    },
+    {
+        "identifier": "ignite_notable1797",
+        "name": "Breath of Flames"
+    },
+    {
+        "identifier": "intensify_notable2777",
+        "name": "Infused Flesh"
+    },
+    {
+        "identifier": "spell_damage1867",
+        "name": "Life Recoup"
+    },
+    {
+        "identifier": "spell_damage1868",
+        "name": "Life Recoup"
+    },
+    {
+        "identifier": "staff_spells2311",
+        "name": "Staff Spell Damage"
+    },
+    {
+        "identifier": "staff_spells_and_block2317",
+        "name": "Staff Spell Damage and Spell Block"
+    },
+    {
+        "identifier": "staff_spells_and_block2318",
+        "name": "Staff Spell Damage and Block"
+    },
+    {
+        "identifier": "staff_spells_and_block_notable2342",
+        "name": "Enigmatic Defence"
+    },
+    {
+        "identifier": "lightning_damage312",
+        "name": "Lightning Damage"
+    },
+    {
+        "identifier": "lightning_damage313",
+        "name": "Lightning Damage and Shock Chance"
+    },
+    {
+        "identifier": "lightning_damage315",
+        "name": "Lightning Damage"
+    },
+    {
+        "identifier": "lightning_damage317",
+        "name": "Lightning Damage"
+    },
+    {
+        "identifier": "lightning_damage318",
+        "name": "Lightning Damage"
+    },
+    {
+        "identifier": "shock_chance1653",
+        "name": "Lightning Damage and Shock Chance"
+    },
+    {
+        "identifier": "shock_duration222",
+        "name": "Lightning Damage and Shock Chance"
+    },
+    {
+        "identifier": "shock_notable1798",
+        "name": "Breath of Lightning"
+    },
+    {
+        "identifier": "storm_cast307",
+        "name": "Heart of Thunder"
+    },
+    {
+        "identifier": "intelligence1994",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence1996",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "maximum_power_charges742",
+        "name": "Instability"
+    },
+    {
+        "identifier": "power_charge_duration1999",
+        "name": "Power Charge Duration"
+    },
+    {
+        "identifier": "spell_damage_per_power_charge217",
+        "name": "Spell Damage per Power Charge"
+    },
+    {
+        "identifier": "intelligence895",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence101",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "area_of_effect_radius1170",
+        "name": "Area of Effect"
+    },
+    {
+        "identifier": "area_of_effect_radius1171",
+        "name": "Area of Effect"
+    },
+    {
+        "identifier": "area_of_effect_radius381",
+        "name": "Area of Effect Damage"
+    },
+    {
+        "identifier": "lord_of_the_dead1122",
+        "name": "Lord of the Dead"
+    },
+    {
+        "identifier": "spell_critical_chance374",
+        "name": "Spell Critical Strike Chance"
+    },
+    {
+        "identifier": "spell_critical_chance375",
+        "name": "Spell Critical Strike Chance"
+    },
+    {
+        "identifier": "heart_of_the_panther994",
+        "name": "Presage"
+    },
+    {
+        "identifier": "herald_effect2724",
+        "name": "Herald Buff Effect"
+    },
+    {
+        "identifier": "herald_effect2725",
+        "name": "Herald Buff Effect"
+    },
+    {
+        "identifier": "herald_notable2726",
+        "name": "Discord Artisan"
+    },
+    {
+        "identifier": "herald_reservation2722",
+        "name": "Reservation Efficiency of Heralds"
+    },
+    {
+        "identifier": "herald_reservation2723",
+        "name": "Reservation Efficiency of Heralds"
+    },
+    {
+        "identifier": "mana_spell_block2610",
+        "name": "Mana and Spell Block"
+    },
+    {
+        "identifier": "mana_spell_block_notable2611",
+        "name": "Mystic Bulwark"
+    },
+    {
+        "identifier": "mana_spell_damage2608",
+        "name": "Mana and Spell Damage"
+    },
+    {
+        "identifier": "mana_spell_damage_block2613",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana_spell_damage_notable2609",
+        "name": "Prodigal Perfection"
+    },
+    {
+        "identifier": "chill_duration365",
+        "name": "Cold Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "cold_damage1659",
+        "name": "Cold Damage and Freeze Chance"
+    },
+    {
+        "identifier": "cold_damage352",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "cold_damage353",
+        "name": "Cold Damage and Freeze Chance"
+    },
+    {
+        "identifier": "cold_damage357",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "cold_damage358",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "cold_damage360",
+        "name": "Cold Damage"
+    },
+    {
+        "identifier": "freeze_chance1650",
+        "name": "Cold Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "freeze_notable1799",
+        "name": "Breath of Rime"
+    },
+    {
+        "identifier": "heart_of_ice359",
+        "name": "Heart of Ice"
+    },
+    {
+        "identifier": "curse_area1672",
+        "name": "Curse Effect"
+    },
+    {
+        "identifier": "curse_cast_speed1674",
+        "name": "Curse Cast Speed"
+    },
+    {
+        "identifier": "curse_effect_notable1669",
+        "name": "Skittering Runes"
+    },
+    {
+        "identifier": "intelligence929",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence896",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "energy_shield1633",
+        "name": "Energy Shield"
+    },
+    {
+        "identifier": "mana1623",
+        "name": "Mana and Mana Regeneration"
+    },
+    {
+        "identifier": "mana_and_mana_regen_notable2255",
+        "name": "Arcane Will"
+    },
+    {
+        "identifier": "mana_regeneration746",
+        "name": "Mana Regeneration"
+    },
+    {
+        "identifier": "wand_damage245",
+        "name": "Wand Damage and Attack Speed"
+    },
+    {
+        "identifier": "wand_damage_and_accuracy243",
+        "name": "Wand Damage"
+    },
+    {
+        "identifier": "wandslinger's_prowess232",
+        "name": "Wandslinger"
+    },
+    {
+        "identifier": "hex_zone_keystone2800_",
+        "name": "Doomsday"
+    },
+    {
+        "identifier": "golem2639",
+        "name": "Golem Life and Buff Effect"
+    },
+    {
+        "identifier": "golem2640",
+        "name": "Golem Life and Buff Effect"
+    },
+    {
+        "identifier": "golem_notable2641",
+        "name": "Golem Commander"
+    },
+    {
+        "identifier": "minion_instability1133",
+        "name": "Minion Instability"
+    },
+    {
+        "identifier": "energy_shield_delay_notable1688",
+        "name": "Essence Surge"
+    },
+    {
+        "identifier": "intelligence893",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "reduced_mana_cost135",
+        "name": "Mana"
+    },
+    {
+        "identifier": "reduced_mana_cost137",
+        "name": "Mana and Guard Skill Cooldown Recovery"
+    },
+    {
+        "identifier": "strength797",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength997",
+        "name": "Strength"
+    },
+    {
+        "identifier": "physical_damage2828",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "physical_damage2830",
+        "name": "Physical Damage"
+    },
+    {
+        "identifier": "physical_damage2831",
+        "name": "Physical Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "physical_damage_dots_notable2832",
+        "name": "Veteran Soldier"
+    },
+    {
+        "identifier": "physical_damage_hits_notable2829",
+        "name": "Relentless"
+    },
+    {
+        "identifier": "iron_will_keystone2850",
+        "name": "Iron Will"
+    },
+    {
+        "identifier": "intelligence879",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence884",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "increased_mana_cost2773",
+        "name": "Mana Regeneration and Increased Mana Cost"
+    },
+    {
+        "identifier": "increased_mana_cost_notable2774",
+        "name": "Forethought"
+    },
+    {
+        "identifier": "mana393",
+        "name": "Mana"
+    },
+    {
+        "identifier": "mana395",
+        "name": "Mana Regeneration and Reduced Mana Cost"
+    },
+    {
+        "identifier": "mana_notable1765",
+        "name": "Dreamer"
+    },
+    {
+        "identifier": "elemental_damage1725",
+        "name": "Elemental Damage and Resistances"
+    },
+    {
+        "identifier": "elemental_damage1726",
+        "name": "Elemental Damage and Resistances"
+    },
+    {
+        "identifier": "elemental_damage_notable1727",
+        "name": "Frost and Storm"
+    },
+    {
+        "identifier": "shaper1540",
+        "name": "Shaper"
+    },
+    {
+        "identifier": "minion_block1587",
+        "name": "Minion Block"
+    },
+    {
+        "identifier": "minion_block1588",
+        "name": "Decay Ward"
+    },
+    {
+        "identifier": "minion_block1589",
+        "name": "Minion Spell Block"
+    },
+    {
+        "identifier": "necromantic_aegis1175",
+        "name": "Necromantic Aegis"
+    },
+    {
+        "identifier": "skill_duration436",
+        "name": "Skill Duration"
+    },
+    {
+        "identifier": "frenzy_charge_on_kill2153",
+        "name": "Overcharged"
+    },
+    {
+        "identifier": "attack_speed568",
+        "name": "Projectile Damage and Accuracy"
+    },
+    {
+        "identifier": "accuracy581",
+        "name": "Projectile Damage and Attack Speed"
+    },
+    {
+        "identifier": "dexterity977",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity979",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity1989",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity851",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity990",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity992",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "aura_area_of_effect1203",
+        "name": "Aura Area of Effect"
+    },
+    {
+        "identifier": "aura_effect_reservation_cost_notable1558",
+        "name": "Charisma"
+    },
+    {
+        "identifier": "reduced_mana_reservation1199",
+        "name": "Reservation Efficiency"
+    },
+    {
+        "identifier": "attack_speed1487",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "attack_speed1488",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "attack_speed1489",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "projectile_damage1485",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage592",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "projectile_damage593",
+        "name": "Projectile Damage"
+    },
+    {
+        "identifier": "attack_and_cast_speed_2208",
+        "name": "Attack and Cast Speed"
+    },
+    {
+        "identifier": "attack_and_cast_speed_2209",
+        "name": "Attack and Cast Speed"
+    },
+    {
+        "identifier": "attack_and_cast_speed_2210",
+        "name": "Attack and Cast Speed"
+    },
+    {
+        "identifier": "chaos_damage1578",
+        "name": "Chaos Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "chaos_damage1579",
+        "name": "Chaos Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "dagger_leech_notable2537",
+        "name": "Wasting"
+    },
+    {
+        "identifier": "critical_ailment_dot_multiplier2666",
+        "name": "Critical Ailment Damage Over Time Multiplier"
+    },
+    {
+        "identifier": "critical_chance2265",
+        "name": "Critical Strike Chance"
+    },
+    {
+        "identifier": "critical_dot_mult_notable2664",
+        "name": "Dire Torment"
+    },
+    {
+        "identifier": "supreme_ego_keystone2696",
+        "name": "Supreme Ego"
+    },
+    {
+        "identifier": "perfect_aim591",
+        "name": "Ballistics"
+    },
+    {
+        "identifier": "intelligence957",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity995",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "strength815",
+        "name": "Strength"
+    },
+    {
+        "identifier": "dexterity848",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity981",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "adder's_touch443",
+        "name": "Adder's Touch"
+    },
+    {
+        "identifier": "dagger_poison2528",
+        "name": "Dagger Ailment Damage"
+    },
+    {
+        "identifier": "dagger_poison2529",
+        "name": "Dagger Critical Strike Multiplier and Poison Duration"
+    },
+    {
+        "identifier": "dagger_poison2530",
+        "name": "Dagger Ailment Damage and Poison Chance"
+    },
+    {
+        "identifier": "trap_damage1510",
+        "name": "Trap Damage"
+    },
+    {
+        "identifier": "trap_damage_additional_traps_notable1524",
+        "name": "Master Sapper"
+    },
+    {
+        "identifier": "trap_laying_speed_and_damage1521",
+        "name": "Trap Throwing Speed"
+    },
+    {
+        "identifier": "elemental_damage_es1615",
+        "name": "Flask Charges Gained"
+    },
+    {
+        "identifier": "elemental_reflect_2794",
+        "name": "Life Flask Charge Gain"
+    },
+    {
+        "identifier": "elemental_reflect_2795",
+        "name": "Mana Flask Charge Gain"
+    },
+    {
+        "identifier": "elemental_reflect_notable_2796",
+        "name": "Replenishing Remedies"
+    },
+    {
+        "identifier": "channelling_notable2282",
+        "name": "Taste for Blood"
+    },
+    {
+        "identifier": "shield_damage2559",
+        "name": "Life on Hit"
+    },
+    {
+        "identifier": "shield_damage2560",
+        "name": "Life Leech"
+    },
+    {
+        "identifier": "bow_attack_speed670",
+        "name": "Bow Attack Speed and Accuracy"
+    },
+    {
+        "identifier": "bow_damage_and_speed498",
+        "name": "Bow Damage"
+    },
+    {
+        "identifier": "dexterity855",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1423",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1424",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1425",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "evasion_and_energy_shield1426",
+        "name": "Evasion and Energy Shield"
+    },
+    {
+        "identifier": "nullification1428",
+        "name": "Void Barrier"
+    },
+    {
+        "identifier": "life1115",
+        "name": "Evasion and Life"
+    },
+    {
+        "identifier": "life1116",
+        "name": "Evasion and Life"
+    },
+    {
+        "identifier": "life1117",
+        "name": "Revenge of the Hunted"
+    },
+    {
+        "identifier": "life1118",
+        "name": "Evasion and Life"
+    },
+    {
+        "identifier": "life1119",
+        "name": "Evasion and Life"
+    },
+    {
+        "identifier": "armour87",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "life185",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "life204",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "life_regeneration1086",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "strength800",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength807",
+        "name": "Strength"
+    },
+    {
+        "identifier": "axe_damage_and_accuracy2468",
+        "name": "Maximum Cold Resistance"
+    },
+    {
+        "identifier": "axe_damage_and_accuracy2469",
+        "name": "Maximum Fire Resistance"
+    },
+    {
+        "identifier": "axe_damage_and_accuracy2470",
+        "name": "Elemental Resistances"
+    },
+    {
+        "identifier": "axe_damage_and_accuracy_notable2471",
+        "name": "Prismatic Skin"
+    },
+    {
+        "identifier": "axe_damage_evasion_armour1929",
+        "name": "Maximum Lightning Resistance"
+    },
+    {
+        "identifier": "life186",
+        "name": "Life and Armour"
+    },
+    {
+        "identifier": "accuracy198",
+        "name": "Accuracy and Critical Strike Chance"
+    },
+    {
+        "identifier": "accuracy200",
+        "name": "Accuracy and Critical Strike Chance"
+    },
+    {
+        "identifier": "eagle_eye199",
+        "name": "Eagle Eye"
+    },
+    {
+        "identifier": "dexterity971",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "strength777",
+        "name": "Strength"
+    },
+    {
+        "identifier": "unwavering_stance1139",
+        "name": "Unwavering Stance"
+    },
+    {
+        "identifier": "two_hand_damage_notable1733",
+        "name": "Martial Experience"
+    },
+    {
+        "identifier": "two_handed_weapon_damage13",
+        "name": "Two Handed Melee Damage and Leech"
+    },
+    {
+        "identifier": "two_handed_weapon_damage1772",
+        "name": "Two Handed Melee Damage and Life Leech Speed"
+    },
+    {
+        "identifier": "two_handed_weapon_damage604",
+        "name": "Two Handed Melee Damage and Life Leech Speed"
+    },
+    {
+        "identifier": "two_handed_weapon_damage_and_accuracy9",
+        "name": "Two Handed Melee Damage and Leech"
+    },
+    {
+        "identifier": "bleeding_notable1954",
+        "name": "Bloodletting"
+    },
+    {
+        "identifier": "melee_bleeding_chance1953",
+        "name": "Bleed Damage Multiplier"
+    },
+    {
+        "identifier": "physical_damage_over_time1951",
+        "name": "Bleed Chance"
+    },
+    {
+        "identifier": "strength774",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength776",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength826",
+        "name": "Strength"
+    },
+    {
+        "identifier": "warcry_notable1",
+        "name": "Admonisher"
+    },
+    {
+        "identifier": "warcry_speed2704",
+        "name": "Warcry Speed"
+    },
+    {
+        "identifier": "warcry_speed2705",
+        "name": "Warcry Speed and Cooldown Recovery"
+    },
+    {
+        "identifier": "shield_block615",
+        "name": "Shield Damage and Block"
+    },
+    {
+        "identifier": "shield_defences614",
+        "name": "Shield Defences"
+    },
+    {
+        "identifier": "shields_notable1739",
+        "name": "Command of Steel"
+    },
+    {
+        "identifier": "intelligence947",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "berserking1031",
+        "name": "Berserking"
+    },
+    {
+        "identifier": "strength1009",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength1008",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength1010",
+        "name": "Strength"
+    },
+    {
+        "identifier": "melee_damage124",
+        "name": "Physical Attack Damage"
+    },
+    {
+        "identifier": "strength1002",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength827",
+        "name": "Strength"
+    },
+    {
+        "identifier": "agility876",
+        "name": "Expertise"
+    },
+    {
+        "identifier": "savant878",
+        "name": "Ancestral Knowledge"
+    },
+    {
+        "identifier": "shield_block32",
+        "name": "Elemental Resistances with a Shield"
+    },
+    {
+        "identifier": "shield_block_and_block_recovery29",
+        "name": "Shield Spell Block and Elemental Resistances with a Shield"
+    },
+    {
+        "identifier": "shield_defences1063",
+        "name": "Shield Block and Elemental Resistances with a Shield"
+    },
+    {
+        "identifier": "shield_mastery34",
+        "name": "Sanctuary"
+    },
+    {
+        "identifier": "staff_damage_block2570",
+        "name": "Staff Damage and Block"
+    },
+    {
+        "identifier": "staff_damage_block2572",
+        "name": "Staff Damage and Armour"
+    },
+    {
+        "identifier": "staff_damage_block_notable2573",
+        "name": "Steelwood Stance"
+    },
+    {
+        "identifier": "mace_crit2487",
+        "name": "Mace Damage and Critical Strike Chance"
+    },
+    {
+        "identifier": "mace_crit_notable2488",
+        "name": "Blacksmith's Clout"
+    },
+    {
+        "identifier": "warcry_cooldown2707",
+        "name": "Warcry Cooldown Recovery"
+    },
+    {
+        "identifier": "warcry_cooldown2708",
+        "name": "Warcry Area of Effect"
+    },
+    {
+        "identifier": "warcry_cooldown_notable2709_",
+        "name": "Deep Breaths"
+    },
+    {
+        "identifier": "warcry_damage2715",
+        "name": "Warcry Cooldown Recovery"
+    },
+    {
+        "identifier": "warcry_damage2716",
+        "name": "Warcry Cooldown Recovery"
+    },
+    {
+        "identifier": "shock_attacks2682",
+        "name": "Link Duration and Cast Speed"
+    },
+    {
+        "identifier": "shock_attacks2683",
+        "name": "Link Duration"
+    },
+    {
+        "identifier": "shock_attacks_notable2681",
+        "name": "Powerful Bond"
+    },
+    {
+        "identifier": "armour170",
+        "name": "Armour and Life"
+    },
+    {
+        "identifier": "armour_life_regen1771",
+        "name": "Armour and Life Regeneration"
+    },
+    {
+        "identifier": "life_regen_armour_notable1732",
+        "name": "Combat Stamina"
+    },
+    {
+        "identifier": "life_regeneration1573",
+        "name": "Life Regeneration"
+    },
+    {
+        "identifier": "melee_notable1874",
+        "name": "Sanctity"
+    },
+    {
+        "identifier": "strength786",
+        "name": "Strength"
+    },
+    {
+        "identifier": "dexterity973",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "strength998",
+        "name": "Strength"
+    },
+    {
+        "identifier": "intelligence945",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "strength809",
+        "name": "Strength"
+    },
+    {
+        "identifier": "eternal_youth_keytone2692",
+        "name": "Eternal Youth"
+    },
+    {
+        "identifier": "additional_minions1123",
+        "name": "Gravepact"
+    },
+    {
+        "identifier": "minion_damage1126",
+        "name": "Minion Damage and Accuracy"
+    },
+    {
+        "identifier": "minion_damage1127",
+        "name": "Minion Damage and Accuracy"
+    },
+    {
+        "identifier": "minion_damage284",
+        "name": "Minion Damage and Accuracy"
+    },
+    {
+        "identifier": "armour_and_energy_shield1447",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour_and_energy_shield1448",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "armour_and_energy_shield1449",
+        "name": "Armour and Energy Shield"
+    },
+    {
+        "identifier": "life_mana_regeneration1945",
+        "name": "Mana and Life Regeneration"
+    },
+    {
+        "identifier": "life_mana_regeneration1946",
+        "name": "Mana and Life Regeneration"
+    },
+    {
+        "identifier": "life_mana_regeneration1947",
+        "name": "Mana and Life Regeneration"
+    },
+    {
+        "identifier": "strength1985",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength999",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength808",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength810",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength795",
+        "name": "Strength"
+    },
+    {
+        "identifier": "strength801",
+        "name": "Strength"
+    },
+    {
+        "identifier": "life_and_life_regen1891",
+        "name": "Mana and Life"
+    },
+    {
+        "identifier": "flat_life_and_life_regen1890",
+        "name": "Mana Regeneration and Life"
+    },
+    {
+        "identifier": "mana_reduced_cost_notable1734",
+        "name": "Dynamo"
+    },
+    {
+        "identifier": "attack_speed1270",
+        "name": "Attack Speed and Accuracy"
+    },
+    {
+        "identifier": "armour_evasion_life1852",
+        "name": "Evasion and Life"
+    },
+    {
+        "identifier": "attack_speed1846",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "attack_speed1847",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "two_handed_attack_speed650",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "two_handed_attack_speed651",
+        "name": "Attack Speed"
+    },
+    {
+        "identifier": "dexterity982",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity983",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity975",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "life_flasks_notable1747",
+        "name": "Profane Chemistry"
+    },
+    {
+        "identifier": "bow_area_notable2586",
+        "name": "Deadly Draw"
+    },
+    {
+        "identifier": "bow_damage_accuracy2512",
+        "name": "Bow Area of Effect"
+    },
+    {
+        "identifier": "bow_damage_and_critical_strike_chance495",
+        "name": "Bow Damage Over Time"
+    },
+    {
+        "identifier": "heavy_draw493",
+        "name": "Heavy Draw"
+    },
+    {
+        "identifier": "blight_special_notable11",
+        "name": "Hardened Scars"
+    },
+    {
+        "identifier": "intelligence880",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity1988",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity850",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "one_handed_physical_leech2353",
+        "name": "Attack Damage and Leech"
+    },
+    {
+        "identifier": "one_handed_physical_leech2354",
+        "name": "Attack Damage and Speed"
+    },
+    {
+        "identifier": "one_handed_physical_leech2355",
+        "name": "Attack Damage and Leech"
+    },
+    {
+        "identifier": "one_handed_physical_leech_notable2356",
+        "name": "Gladiator's Perseverance"
+    },
+    {
+        "identifier": "dexterity853",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "fire_damage1244",
+        "name": "Attack Ignite Chance and Attack Speed"
+    },
+    {
+        "identifier": "ignite_attacks2686",
+        "name": "Attack Ignite Chance"
+    },
+    {
+        "identifier": "ignite_attacks2687",
+        "name": "Attack Ignite Chance and Attack Speed"
+    },
+    {
+        "identifier": "ignite_attacks2688",
+        "name": "Burning Damage Multiplier with Attacks"
+    },
+    {
+        "identifier": "ignite_attacks_notable2685",
+        "name": "Burning Brutality"
+    },
+    {
+        "identifier": "bow_damage_move_speed1709",
+        "name": "Bow Damage and Evasion"
+    },
+    {
+        "identifier": "bow_damage_move_speed1710",
+        "name": "Bow Damage and Evasion"
+    },
+    {
+        "identifier": "bow_damage_speed_notable1711",
+        "name": "Avatar of the Hunt"
+    },
+    {
+        "identifier": "bow_mobility2507",
+        "name": "Bow Damage"
+    },
+    {
+        "identifier": "bow_mobility2859_",
+        "name": "Bow Attack Speed and Phasing"
+    },
+    {
+        "identifier": "bow_mobility2860",
+        "name": "Bow Attack Speed and Phasing"
+    },
+    {
+        "identifier": "elemental_equilibrium1177",
+        "name": "Elemental Equilibrium"
+    },
+    {
+        "identifier": "dexterity854",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "accuracy583",
+        "name": "Accuracy and Elemental Resistances"
+    },
+    {
+        "identifier": "deadeye585",
+        "name": "Weathered Hunter"
+    },
+    {
+        "identifier": "strength821",
+        "name": "Strength"
+    },
+    {
+        "identifier": "dexterity986",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "dexterity988",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "avoid_burning561",
+        "name": "Ignite Avoidance"
+    },
+    {
+        "identifier": "avoid_status_ailments1696",
+        "name": "Avoid Status Ailments"
+    },
+    {
+        "identifier": "crystal_skin698",
+        "name": "Crystal Skin"
+    },
+    {
+        "identifier": "ailmentres2759",
+        "name": "Elemental Resistances"
+    },
+    {
+        "identifier": "ailmentres_cold2761",
+        "name": "Chill and Freeze Resistance"
+    },
+    {
+        "identifier": "ailmentres_notable2763",
+        "name": "Anointed Flesh"
+    },
+    {
+        "identifier": "intelligence889",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence940",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "dexterity869",
+        "name": "Dexterity"
+    },
+    {
+        "identifier": "curse_mitigation2835",
+        "name": "Curse Effect on You and Chaos Resistance"
+    },
+    {
+        "identifier": "curse_mitigation_notable2836",
+        "name": "Asylum"
+    },
+    {
+        "identifier": "intelligence890",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "mana_shield1544",
+        "name": "Mind Over Matter"
+    },
+    {
+        "identifier": "life_mana_notable1730",
+        "name": "Quick Recovery"
+    },
+    {
+        "identifier": "mana388",
+        "name": "Mana Regeneration and Life"
+    },
+    {
+        "identifier": "mana397",
+        "name": "Mana Regeneration and Life"
+    },
+    {
+        "identifier": "intelligence882",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "energy_shield1465",
+        "name": "Energy Shield Recharge Rate"
+    },
+    {
+        "identifier": "energy_shield1466",
+        "name": "Energy Shield Recharge Rate"
+    },
+    {
+        "identifier": "light_radius_scales_with_es1545",
+        "name": "Essence Infusion"
+    },
+    {
+        "identifier": "mana_mana_flask2614",
+        "name": "Mana Flasks"
+    },
+    {
+        "identifier": "mana_mana_flask2615",
+        "name": "Mana Flasks"
+    },
+    {
+        "identifier": "mana_mana_flask_notable2616",
+        "name": "Essence Extraction"
+    },
+    {
+        "identifier": "totem_critical_multiplier2073",
+        "name": "Totem Critical Strike Multiplier"
+    },
+    {
+        "identifier": "totem_critical_multiplier2074",
+        "name": "Totem Critical Strike Multiplier"
+    },
+    {
+        "identifier": "intelligence883",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence891",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "minion_duration2624_",
+        "name": "Minion Damage and Duration"
+    },
+    {
+        "identifier": "minion_duration2625",
+        "name": "Minion Damage and Duration"
+    },
+    {
+        "identifier": "minion_duration_notable2626",
+        "name": "Enduring Bond"
+    },
+    {
+        "identifier": "strength828",
+        "name": "Strength"
+    },
+    {
+        "identifier": "intelligence918",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "elemental_damage1644",
+        "name": "Elemental Damage"
+    },
+    {
+        "identifier": "fire_walker329",
+        "name": "Fire Walker"
+    },
+    {
+        "identifier": "intelligence920",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "intelligence922",
+        "name": "Intelligence"
+    },
+    {
+        "identifier": "cast_speed418",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "cast_speed419",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "cast_speed420",
+        "name": "Cast Speed"
+    },
+    {
+        "identifier": "critical_strike_notable1641",
+        "name": "Annihilation"
+    },
+    {
+        "identifier": "savant901",
+        "name": "Arcanist's Dominion"
+    },
+    {
+        "identifier": "spell_damage723",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "spell_damage724",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "spell_damage725",
+        "name": "Spell Damage"
+    },
+    {
+        "identifier": "spell_damage740",
+        "name": "Spell Damage"
+    }
+]

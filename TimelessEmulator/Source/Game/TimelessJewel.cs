@@ -6,17 +6,19 @@ namespace TimelessEmulator.Game;
 public class TimelessJewel
 {
 
+    public string Name { get; private set; }
     public AlternateTreeVersion AlternateTreeVersion { get; private set; }
 
     public TimelessJewelConqueror TimelessJewelConqueror { get; private set; }
 
     public uint Seed { get; private set; }
 
-    public TimelessJewel(AlternateTreeVersion alternateTreeVersion, TimelessJewelConqueror timelessJewelConqueror, uint seed)
+    public TimelessJewel(string name, AlternateTreeVersion alternateTreeVersion, TimelessJewelConqueror timelessJewelConqueror, uint seed)
     {
         ArgumentNullException.ThrowIfNull(alternateTreeVersion, nameof(alternateTreeVersion));
         ArgumentNullException.ThrowIfNull(timelessJewelConqueror, nameof(timelessJewelConqueror));
 
+        this.Name = name;
         this.AlternateTreeVersion = alternateTreeVersion;
         this.TimelessJewelConqueror = timelessJewelConqueror;
         this.Seed = seed;
@@ -34,4 +36,8 @@ public class TimelessJewel
         this.Seed /= 20;
     }
 
+    public override string ToString()
+    {
+        return $"{nameof(Name)}: {Name}, {nameof(AlternateTreeVersion)}: {AlternateTreeVersion}, {nameof(TimelessJewelConqueror)}: {TimelessJewelConqueror}";
+    }
 }

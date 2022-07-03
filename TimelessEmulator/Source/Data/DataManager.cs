@@ -18,6 +18,7 @@ public static class DataManager
     public static IReadOnlyCollection<AlternateTreeVersion> AlternateTreeVersions { get; private set; }
 
     public static IReadOnlyCollection<PassiveSkill> PassiveSkills { get; private set; }
+    public static IReadOnlyCollection<PassiveSkillsInRadiusOfAnyJewel> PassiveSkillsInRadiusOfAnyJewel { get; private set; }
 
     public static IReadOnlyCollection<Stat> Stats { get; private set; }
 
@@ -27,6 +28,7 @@ public static class DataManager
         AlternatePassiveSkills = null;
         AlternateTreeVersions = null;
         PassiveSkills = null;
+        PassiveSkillsInRadiusOfAnyJewel = null;
         Stats = null;
     }
 
@@ -36,6 +38,7 @@ public static class DataManager
         AlternatePassiveSkills = LoadFromFile<AlternatePassiveSkill>(Settings.AlternatePassiveSkillsFilePath);
         AlternateTreeVersions = LoadFromFile<AlternateTreeVersion>(Settings.AlternateTreeVersionsFilePath);
         PassiveSkills = LoadFromFile<PassiveSkill>(Settings.PassiveSkillsFilePath);
+        PassiveSkillsInRadiusOfAnyJewel = LoadFromFile<PassiveSkillsInRadiusOfAnyJewel>(Settings.PassiveSkillsInRadiusFilePath);
         Stats = LoadFromFile<Stat>(Settings.StatsFilePath);
 
         if ((AlternatePassiveAdditions == null) || (AlternatePassiveSkills == null) || (AlternateTreeVersions == null) || (PassiveSkills == null) || (Stats == null))
@@ -56,7 +59,7 @@ public static class DataManager
             PassiveSkillType passiveSkillType = GetPassiveSkillType(passiveSkill);
 
             if ((alternatePassiveAddition.AlternateTreeVersionIndex != timelessJewel.AlternateTreeVersion.Index) ||
-                !alternatePassiveAddition.ApplicablePassiveTypes.Any(q => (q == ((uint) passiveSkillType))))
+                !alternatePassiveAddition.ApplicablePassiveTypes.Any(q => (q == ((uint)passiveSkillType))))
             {
                 continue;
             }
@@ -76,7 +79,7 @@ public static class DataManager
             (q.ConquerorIndex == timelessJewel.TimelessJewelConqueror.Index) &&
             (q.ConquerorVersion == timelessJewel.TimelessJewelConqueror.Version)));
 
-        if (!alternatePassiveSkillKeyStone.ApplicablePassiveTypes.Any(q => (q == ((uint) PassiveSkillType.KeyStone))))
+        if (!alternatePassiveSkillKeyStone.ApplicablePassiveTypes.Any(q => (q == ((uint)PassiveSkillType.KeyStone))))
             return null;
 
         return alternatePassiveSkillKeyStone;
@@ -94,7 +97,7 @@ public static class DataManager
             PassiveSkillType passiveSkillType = GetPassiveSkillType(passiveSkill);
 
             if ((alternatePassiveSkill.AlternateTreeVersionIndex != timelessJewel.AlternateTreeVersion.Index) ||
-                !alternatePassiveSkill.ApplicablePassiveTypes.Any(q => (q == ((uint) passiveSkillType))))
+                !alternatePassiveSkill.ApplicablePassiveTypes.Any(q => (q == ((uint)passiveSkillType))))
             {
                 continue;
             }
@@ -134,7 +137,7 @@ public static class DataManager
         {
             uint bitPosition = ((passiveSkill.StatIndices.ElementAt(0) + 1) - 574);
 
-            if ((bitPosition <= 6) && ((0x49 & (1 << ((int) bitPosition))) != 0))
+            if ((bitPosition <= 6) && ((0x49 & (1 << ((int)bitPosition))) != 0))
                 return PassiveSkillType.SmallAttribute;
         }
 

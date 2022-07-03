@@ -37,4 +37,9 @@ public class AlternateTreeVersion
         this.NotableReplacementSpawnWeight = default;
     }
 
+    public override string ToString()
+    {
+        return $"{nameof(Index)}: {Index}, {nameof(Identifier)}: {Identifier}";
+    }
+
 }

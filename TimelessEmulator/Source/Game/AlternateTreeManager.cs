@@ -42,7 +42,7 @@ public class AlternateTreeManager
         {
             uint bitPosition = ((this.PassiveSkill.StatIndices.ElementAt(0) + 1) - 574);
 
-            if ((bitPosition <= 6) && ((0x49 & (1 << ((int) bitPosition))) != 0))
+            if ((bitPosition <= 6) && ((0x49 & (1 << ((int)bitPosition))) != 0))
                 return this.TimelessJewel.AlternateTreeVersion.AreSmallAttributePassiveSkillsReplaced;
         }
 
@@ -202,7 +202,7 @@ public class AlternateTreeManager
 
         List<AlternatePassiveAddition> applicableAlternatePassiveAdditions = DataManager.GetApplicableAlternatePassiveAdditions(this.PassiveSkill, this.TimelessJewel);
 
-        uint totalSpawnWeight = ((uint) applicableAlternatePassiveAdditions
+        uint totalSpawnWeight = ((uint)applicableAlternatePassiveAdditions
                .Sum(q => q.SpawnWeight));
 
         uint additionRoll = randomNumberGenerator.Generate(totalSpawnWeight);

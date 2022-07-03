@@ -3,7 +3,7 @@ using System.IO;
 
 namespace TimelessEmulator;
 
-public static  class Settings
+public static class Settings
 {
 
     private const string DATA_DIRECTORY_NAME = "data";
@@ -12,6 +12,7 @@ public static  class Settings
     private const string ALTERNATE_PASSIVE_SKILLS_FILE_NAME = "alternate_passive_skills.json";
     private const string ALTERNATE_TREE_VERSIONS_FILE_NAME = "alternate_tree_versions.json";
     private const string PASSIVE_SKILLS_FILE_NAME = "passive_skills.json";
+    private const string PASSIVE_SKILLS_IN_RADIUS_FILE_NAME = "foo.json";
     private const string STATS_FILE_NAME = "stats.json";
 
     public static readonly string ApplicationName = "TimelessEmulator";
@@ -24,6 +25,7 @@ public static  class Settings
     public static readonly string AlternatePassiveSkillsFilePath = Path.Combine(DataDirectoryPath, ALTERNATE_PASSIVE_SKILLS_FILE_NAME);
     public static readonly string AlternateTreeVersionsFilePath = Path.Combine(DataDirectoryPath, ALTERNATE_TREE_VERSIONS_FILE_NAME);
     public static readonly string PassiveSkillsFilePath = Path.Combine(DataDirectoryPath, PASSIVE_SKILLS_FILE_NAME);
+    public static readonly string PassiveSkillsInRadiusFilePath = Path.Combine(DataDirectoryPath, PASSIVE_SKILLS_IN_RADIUS_FILE_NAME);
     public static readonly string StatsFilePath = Path.Combine(DataDirectoryPath, STATS_FILE_NAME);
 
     static Settings()
