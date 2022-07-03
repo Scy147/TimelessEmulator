@@ -8,4 +8,11 @@
 		<PackageReference Include="Spectre.Console" Version="0.44.0" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
 	</ItemGroup>
+	<Target Name="CopyContentFilesToOutputDirectory" AfterTargets="Build;CopyAllFilesToSingleFolderForPackage">
+		<ItemGroup>
+			<ContentFiles Include="Content\**\*.*" />
+		</ItemGroup>
+		<Copy SourceFiles="@(ContentFiles)" DestinationFolder="$(OutputPath)%(RecursiveDir)" SkipUnchangedFiles="false" />
+		<Copy Condition="'$(PublishProtocol)' == 'FileSystem'" SourceFiles="@(ContentFiles)" DestinationFolder="$(PublishDir)%(RecursiveDir)" SkipUnchangedFiles="false" />
+	</Target>
 </Project>
